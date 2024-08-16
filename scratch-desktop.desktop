@@ -1,0 +1,66 @@
+<DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>World of Languages</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body><header class="cabeçalho">
+        <div class="container">
+          <input type="checkbox" id="menu" class="container__botao">
+          <label for="menu" class="container__rotulo">
+            <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+          </label>
+
+        <header>  <menu type="context"> Quem somos , somos uma empresa focada no aprendizado de idiomas </menu></header>
+          <h1> World of Languages</h1> 
+            <p> Já pensou em aprender  3 idiomas por apenas R$ 199,90?
+     Com professores fluentes e de alto nível.</p>
+        </header>
+        <main>
+            <section id="idiomas">
+
+                <h2>Nossos Idiomas</h2>
+                <ul>
+                    <li><a href="idioma.html?lang=ingles">Inglês</a> </li> <p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=espanhol">Espanhol</a></li> <p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=frances">Francês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=alemao">Alemão</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=italiano">Italiano</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=portugues">Português</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=russo">Russo</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=chines">Chinês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=japones">Japonês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=arabe">Árabe</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=coreano">Coreano</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=hebraico">Hebraico</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=turco">Turco</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=hindu">Hindi</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=grego">Grego</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=latim">Latim</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=polones">Polonês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=dinamarques">Dinamarquês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=holandes">Holandês</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                    <li><a href="idioma.html?lang=swahili">Swahili</a></li><p> Aqui você irá aprender na prática como aprender falar fluentemente </p>
+                </ul>
+            </section>
+
+    
+            <section id="plano">
+                <h2>Plano Especial</h2>
+                <p>Escolha 3 idiomas por apenas R$ 199,90 e comece sua jornada linguística hoje! Com a ajuda da World of Languages, viaje o mundo e aumente suas oportunidades. </p>
+                <button onclick="window.location.href='plan.html'">Adquirir Plano</button>
+            </section>
+            <section class=" contato ">
+                <p> Entre em contato conosco pelo email: world.of.linguagnes@gmail.com ou então pelo telefone: (45) 985613-0603 </p>
+            </section>
+        </main>
+        <footer>
+            <p>© 2024 World of Languages</p>
+        </footer>
+    </body>
+    </htm
+    l>
+    
